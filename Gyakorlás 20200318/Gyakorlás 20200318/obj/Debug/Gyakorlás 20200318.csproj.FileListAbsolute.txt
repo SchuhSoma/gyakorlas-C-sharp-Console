@@ -1,0 +1,6 @@
+C:\Users\Soma\Documents\C#2\Gyakorlás 20200318\Gyakorlás 20200318\bin\Debug\Gyakorlás 20200318.exe.config
+C:\Users\Soma\Documents\C#2\Gyakorlás 20200318\Gyakorlás 20200318\bin\Debug\Gyakorlás 20200318.exe
+C:\Users\Soma\Documents\C#2\Gyakorlás 20200318\Gyakorlás 20200318\bin\Debug\Gyakorlás 20200318.pdb
+C:\Users\Soma\Documents\C#2\Gyakorlás 20200318\Gyakorlás 20200318\obj\Debug\Gyakorlás 20200318.csprojAssemblyReference.cache
+C:\Users\Soma\Documents\C#2\Gyakorlás 20200318\Gyakorlás 20200318\obj\Debug\Gyakorlás 20200318.exe
+C:\Users\Soma\Documents\C#2\Gyakorlás 20200318\Gyakorlás 20200318\obj\Debug\Gyakorlás 20200318.pdb
